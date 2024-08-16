@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "RoboBuddy.kicad_prl",
+    "filename": "RoboBuddy_NoSIlkScreen.kicad_prl",
     "version": 3
   },
   "project": {
