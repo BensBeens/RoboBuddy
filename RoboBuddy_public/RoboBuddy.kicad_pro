@@ -37,7 +37,7 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
+          "drill": 0.5,
           "height": 1.0,
           "width": 1.0
         },
@@ -466,7 +466,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/Ben/Documents/KiCad/KiCadProjects/RoboBuddy/RoboBuddy/Gerber/RoboBud_LargerPCB/",
+      "plot": "Gerber/RoboBud_Gerber/",
       "pos_files": "Gerber/",
       "specctra_dsn": "",
       "step": "",

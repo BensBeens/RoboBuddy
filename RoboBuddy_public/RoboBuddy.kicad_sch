@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "RoboBuddy")
-		(date "2024-08-13")
-		(rev "2")
+		(date "2024-08-17")
+		(rev "3")
 	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card"
@@ -6276,7 +6276,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 186.3852 30.48 0)
 			(effects
 				(font
@@ -6460,7 +6460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f389d34-0f1e-4cc1-818f-8fcdc52fc8b8")
-		(property "Reference" "C12"
+		(property "Reference" "C11"
 			(at 34.29 92.71 90)
 			(effects
 				(font
@@ -6476,7 +6476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 38.1 99.3648 0)
 			(effects
 				(font
@@ -6512,7 +6512,7 @@
 		(instances
 			(project "RoboBuddy"
 				(path "/bc850759-1c7b-4b8b-9b40-8f8b735963cd"
-					(reference "C12")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -6593,7 +6593,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2605afe8-cc2c-4bb0-a004-d6d62d8d22cf")
-		(property "Reference" "C15"
+		(property "Reference" "C14"
 			(at 67.31 139.446 0)
 			(effects
 				(font
@@ -6611,7 +6611,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 72.39 141.2748 0)
 			(effects
 				(font
@@ -6647,7 +6647,7 @@
 		(instances
 			(project "RoboBuddy"
 				(path "/bc850759-1c7b-4b8b-9b40-8f8b735963cd"
-					(reference "C15")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -7020,7 +7020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 46.99 69.088 90)
 			(effects
 				(font
@@ -7493,7 +7493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 80.9752 33.02 0)
 			(effects
 				(font
@@ -7545,7 +7545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58e6dc13-a2f6-4213-bcde-e093c88d64c7")
-		(property "Reference" "C11"
+		(property "Reference" "C10"
 			(at 93.98 53.3399 0)
 			(effects
 				(font
@@ -7563,7 +7563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 91.1352 58.42 0)
 			(effects
 				(font
@@ -7599,7 +7599,7 @@
 		(instances
 			(project "RoboBuddy"
 				(path "/bc850759-1c7b-4b8b-9b40-8f8b735963cd"
-					(reference "C11")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -7630,7 +7630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 119.38 71.628 90)
 			(effects
 				(font
@@ -7700,7 +7700,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 53.0352 33.02 0)
 			(effects
 				(font
@@ -7767,7 +7767,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 215.138 121.92 90)
 			(effects
 				(font
@@ -7835,7 +7835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 68.58 114.808 90)
 			(effects
 				(font
@@ -7953,7 +7953,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75289440-8336-4856-9d64-65b7a88283bc")
-		(property "Reference" "C13"
+		(property "Reference" "C12"
 			(at 34.29 105.41 90)
 			(effects
 				(font
@@ -7969,7 +7969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 38.1 112.0648 0)
 			(effects
 				(font
@@ -8005,7 +8005,7 @@
 		(instances
 			(project "RoboBuddy"
 				(path "/bc850759-1c7b-4b8b-9b40-8f8b735963cd"
-					(reference "C13")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -8037,7 +8037,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 113.03 69.088 90)
 			(effects
 				(font
@@ -8170,7 +8170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 208.788 121.92 90)
 			(effects
 				(font
@@ -8306,7 +8306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 196.5452 30.48 0)
 			(effects
 				(font
@@ -8357,7 +8357,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "821f23af-4552-4629-a642-1eeea3ce526f")
-		(property "Reference" "C14"
+		(property "Reference" "C13"
 			(at 52.07 139.446 0)
 			(effects
 				(font
@@ -8375,7 +8375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 57.15 141.2748 0)
 			(effects
 				(font
@@ -8411,7 +8411,7 @@
 		(instances
 			(project "RoboBuddy"
 				(path "/bc850759-1c7b-4b8b-9b40-8f8b735963cd"
-					(reference "C14")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -8444,7 +8444,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 176.2252 30.48 0)
 			(effects
 				(font
@@ -8826,7 +8826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9940022a-e82e-41ca-bcb2-51a355765a0e")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 260.985 111.76 0)
 			(effects
 				(font
@@ -8899,7 +8899,7 @@
 		(instances
 			(project ""
 				(path "/bc850759-1c7b-4b8b-9b40-8f8b735963cd"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -8930,7 +8930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 38.608 157.48 90)
 			(effects
 				(font
@@ -9195,7 +9195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 227.838 118.11 90)
 			(effects
 				(font
@@ -9543,7 +9543,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 120.3452 30.48 0)
 			(effects
 				(font
@@ -9594,7 +9594,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf60bb09-4ae5-4e33-8829-759a33936b93")
-		(property "Reference" "C16"
+		(property "Reference" "C15"
 			(at 221.996 153.67 0)
 			(effects
 				(font
@@ -9612,7 +9612,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 223.8248 148.59 0)
 			(effects
 				(font
@@ -9648,7 +9648,7 @@
 		(instances
 			(project "RoboBuddy"
 				(path "/bc850759-1c7b-4b8b-9b40-8f8b735963cd"
-					(reference "C16")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -9682,7 +9682,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 176.2252 45.72 0)
 			(effects
 				(font
@@ -10084,7 +10084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 41.148 170.18 90)
 			(effects
 				(font
@@ -10151,7 +10151,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 221.488 121.92 90)
 			(effects
 				(font
@@ -10220,7 +10220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 206.7052 30.48 0)
 			(effects
 				(font
@@ -10290,7 +10290,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 143.2052 45.72 0)
 			(effects
 				(font
